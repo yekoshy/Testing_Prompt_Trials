@@ -1,5 +1,5 @@
 As a **Quality Engineer**, I have analyzed the **Basic Shopping Cart** application (v1.0) and developed the following test strategy and plan. This plan focuses on risk-based prioritization and systematic edge-case detection to ensure the integrity of the checkout flow and server-side state management.
-
+https://testpages.eviltester.com/apps/basiccart/?page=1&limit=10 
 ---
 
 # 📋 Test Strategy: Basic Shopping Cart Application
